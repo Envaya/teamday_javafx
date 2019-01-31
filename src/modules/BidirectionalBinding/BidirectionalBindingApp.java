@@ -1,22 +1,22 @@
-package sample.colormixer_solution;
+package modules.BidirectionalBinding;
 
 import javafx.application.Application;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
-public class ColorMixerApp extends Application {
+public class BidirectionalBindingApp extends Application {
 
 	@Override
 	public void start(Stage primaryStage) throws Exception {
-		ColorMixerPM pm = new ColorMixerPM();
-
-		Parent rootPanel = new ColorMixerUI(pm);
+		Parent rootPanel = new BidirectionalBindingUI();
 
 		Scene scene = new Scene(rootPanel);
 
-		primaryStage.titleProperty().bind(pm.applicationTitleProperty());
+		primaryStage.setTitle("Bidirectional Bindings");
 		primaryStage.setScene(scene);
+
+		primaryStage.setResizable(false);
 
 		primaryStage.show();
 	}

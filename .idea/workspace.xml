@@ -2,20 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/javafxtest/modules/FirstControl/FirstControl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/javafxtest/modules/HelloWorld/HelloWorld.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/javafxtest/modules/bidirectionalbinding_solution/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/javafxtest/modules/colormixer_solution/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/javafxtest/modules/sample.fxml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/javafxtest/sample/Controller.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/javafxtest/sample/Main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/javafxtest/sample/bidirectionalbinding_solution/BidirectionalBindingApp.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/javafxtest/sample/bidirectionalbinding_solution/BidirectionalBindingExample.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/javafxtest/sample/colormixer_solution/ColorMixerApp.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/javafxtest/sample/colormixer_solution/ColorMixerPM.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/javafxtest/sample/colormixer_solution/ColorMixerUI.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/javafxtest/sample/view/UI.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/modules/BidirectionalBinding/BidirectionalBindingApp.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/modules/ColorMixer/ColorMixerApp.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/modules/ColorMixer/ColorMixerPM.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/modules/ColorMixer/ColorMixerUI.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/solutions/BidirectionalBindingSolution/BidirectionalBindingUI.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/solutions/PresentationModelSolution/App.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/solutions/PresentationModelSolution/PM.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/solutions/PresentationModelSolution/UI.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/solutions/colormixer_solution/style.css" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/javafxtest/modules/FirstControl/FirstControl.class" afterPath="$PROJECT_DIR$/out/production/javafxtest/modules/FirstControl/FirstControl.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/javafxtest/modules/HelloWorld/HelloWorld.class" afterPath="$PROJECT_DIR$/out/production/javafxtest/modules/HelloWorld/HelloWorld.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/javafxtest/modules/bidirectionalbinding_solution/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/javafxtest/modules/colormixer_solution/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/javafxtest/modules/sample.fxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/javafxtest/sample/Controller.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/javafxtest/sample/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/javafxtest/sample/bidirectionalbinding_solution/BidirectionalBindingApp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/javafxtest/sample/bidirectionalbinding_solution/BidirectionalBindingExample.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/javafxtest/sample/colormixer_solution/ColorMixerApp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/javafxtest/sample/colormixer_solution/ColorMixerPM.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/javafxtest/sample/colormixer_solution/ColorMixerUI.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/javafxtest/sample/view/UI.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/modules/Controller.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/modules/FirstControl/FirstControlSolution.java" afterPath="$PROJECT_DIR$/src/solutions/FirstControlSolution/FirstControlSolution.java" />
+      <change beforePath="$PROJECT_DIR$/src/modules/HelloWorld/HelloWorld.java" afterPath="$PROJECT_DIR$/src/modules/HelloWorld/HelloWorld.java" />
+      <change beforePath="$PROJECT_DIR$/src/modules/Main.java" afterPath="$PROJECT_DIR$/src/solutions/HelloWorldSolution/HelloWorldSolution.java" />
+      <change beforePath="$PROJECT_DIR$/src/modules/bidirectionalbinding_solution/BidirectionalBindingApp.java" afterPath="$PROJECT_DIR$/src/solutions/BidirectionalBindingSolution/BidirectionalBindingApp.java" />
+      <change beforePath="$PROJECT_DIR$/src/modules/bidirectionalbinding_solution/BidirectionalBindingExample.java" afterPath="$PROJECT_DIR$/src/modules/BidirectionalBinding/BidirectionalBindingUI.java" />
+      <change beforePath="$PROJECT_DIR$/src/modules/bidirectionalbinding_solution/style.css" afterPath="$PROJECT_DIR$/src/modules/ColorMixer/style.css" />
+      <change beforePath="$PROJECT_DIR$/src/modules/colormixer_solution/ColorMixerApp.java" afterPath="$PROJECT_DIR$/src/solutions/colormixer_solution/ColorMixerApp.java" />
+      <change beforePath="$PROJECT_DIR$/src/modules/colormixer_solution/ColorMixerPM.java" afterPath="$PROJECT_DIR$/src/solutions/colormixer_solution/ColorMixerPM.java" />
+      <change beforePath="$PROJECT_DIR$/src/modules/colormixer_solution/ColorMixerUI.java" afterPath="$PROJECT_DIR$/src/solutions/colormixer_solution/ColorMixerUI.java" />
+      <change beforePath="$PROJECT_DIR$/src/modules/colormixer_solution/style.css" afterPath="$PROJECT_DIR$/src/solutions/BidirectionalBindingSolution/style.css" />
+      <change beforePath="$PROJECT_DIR$/src/modules/sample.fxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/modules/view/UI.java" afterPath="" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -73,11 +95,57 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/modules/Main.java">
+      <file leaf-file-name="PM.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/solutions/PresentationModelSolution/PM.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+            <state relative-caret-position="50">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#365#366#0" expanded="true" />
+                <element signature="e#424#425#0" expanded="true" />
+                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#513#514#0" expanded="true" />
+                <element signature="e#543#544#0" expanded="true" />
+                <element signature="e#604#605#0" expanded="true" />
+                <element signature="e#654#655#0" expanded="true" />
+                <element signature="e#678#679#0" expanded="true" />
+                <element signature="e#701#702#0" expanded="true" />
+                <element signature="e#742#743#0" expanded="true" />
+                <element signature="e#759#760#0" expanded="true" />
+                <element signature="e#791#792#0" expanded="true" />
+                <element signature="e#815#816#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ColorMixerPM.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/modules/ColorMixer/ColorMixerPM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="647">
+              <caret line="82" column="1" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="82" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ColorMixerUI.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/modules/ColorMixer/ColorMixerUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/solutions/PresentationModelSolution/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,54 +153,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/modules/view/UI.java">
+      <file leaf-file-name="UI.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/solutions/PresentationModelSolution/UI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloWorld.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/modules/HelloWorld/HelloWorld.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+            <state relative-caret-position="665">
+              <caret line="35" column="37" lean-forward="false" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#612#613#0" expanded="true" />
-                <element signature="e#640#641#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FirstControl.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/modules/FirstControl/FirstControl.java">
+      <file leaf-file-name="ColorMixerApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/solutions/colormixer_solution/ColorMixerApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="27" column="70" lean-forward="false" selection-start-line="27" selection-start-column="70" selection-end-line="27" selection-end-column="70" />
+            <state relative-caret-position="361">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sample.fxml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/modules/sample.fxml">
-          <provider editor-type-id="JavaFX-Scene-Builder">
-            <state />
-          </provider>
+      <file leaf-file-name="ColorMixerUI.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/solutions/colormixer_solution/ColorMixerUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            <state relative-caret-position="628">
+              <caret line="93" column="5" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="93" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>color</find>
+    </findStrings>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -156,8 +214,43 @@
         <option value="$PROJECT_DIR$/src/modules/HelloWorld/Main.java" />
         <option value="$PROJECT_DIR$/src/modules/HelloWorld/FirstControl.java" />
         <option value="$PROJECT_DIR$/src/modules/bidirectionalbinding_solution/FirstControl/FirstControl.java" />
-        <option value="$PROJECT_DIR$/src/modules/HelloWorld/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/modules/FirstControl/FirstControl.java" />
+        <option value="$PROJECT_DIR$/src/modules/FirstControl/FirstControlSolution.java" />
+        <option value="$PROJECT_DIR$/src/modules/HelloWorld/HelloWorldSolution.java" />
+        <option value="$PROJECT_DIR$/src/modules/HelloWorld/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/solutions/FirstControlSolution.java" />
+        <option value="$PROJECT_DIR$/src/solutions/HelloWorldSolution.java" />
+        <option value="$PROJECT_DIR$/src/modules/colormixer_solution/ColorMixerPM.java" />
+        <option value="$PROJECT_DIR$/src/modules/colormixer_solution/ColorMixerApp.java" />
+        <option value="$PROJECT_DIR$/src/modules/colormixer_solution/ColorMixerUI.java" />
+        <option value="$PROJECT_DIR$/src/solutions/colormixer_solution/ColorMixerPM.java" />
+        <option value="$PROJECT_DIR$/src/solutions/HelloWorldSolution/HelloWorldSolution.java" />
+        <option value="$PROJECT_DIR$/src/solutions/FirstControlSolution/FirstControlSolution.java" />
+        <option value="$PROJECT_DIR$/src/modules/bidirectionalbinding_solution/BidirectionalBindingApp.java" />
+        <option value="$PROJECT_DIR$/src/modules/bidirectionalbinding_solution/BidirectionalBindingExample.java" />
+        <option value="$PROJECT_DIR$/src/solutions/colormemory/AppStarter.java" />
+        <option value="$PROJECT_DIR$/src/solutions/colormemory/ColorMemoryUI.java" />
+        <option value="$PROJECT_DIR$/src/solutions/colormemory/ColorMixerPane.java" />
+        <option value="$PROJECT_DIR$/src/solutions/colormemory/CoolColorMemoryPM.java" />
+        <option value="$PROJECT_DIR$/src/modules/BidirectionalBinding/BidirectionalBindingExample.java" />
+        <option value="$PROJECT_DIR$/src/modules/BidirectionalBinding/BidirectionalBindingApp.java" />
+        <option value="$PROJECT_DIR$/src/solutions/BidirectionalBindingSolution/BidirectionalBindingUI.java" />
+        <option value="$PROJECT_DIR$/src/modules/BidirectionalBinding/BidirectionalBindingUI.java" />
+        <option value="$PROJECT_DIR$/src/modules/skiareasfx/SkiAreasApp.java" />
+        <option value="$PROJECT_DIR$/src/modules/ColorMixer/ColorMixerApp.java" />
+        <option value="$PROJECT_DIR$/src/solutions/colormixer_solution/ColorMixerUI.java" />
+        <option value="$PROJECT_DIR$/src/modules/ColorMixer/ColorMixerUI.java" />
+        <option value="$PROJECT_DIR$/src/modules/view/Controller.java" />
+        <option value="$PROJECT_DIR$/src/modules/view/Main.java" />
+        <option value="$PROJECT_DIR$/src/modules/PresentationModel/ColorMixerUI.java" />
+        <option value="$PROJECT_DIR$/src/solutions/PresentationModelSolution/ColorMixerApp.java" />
+        <option value="$PROJECT_DIR$/src/solutions/BidirectionalBindingSolution/BidirectionalBindingApp.java" />
+        <option value="$PROJECT_DIR$/src/solutions/PresentationModelSolution/PM.java" />
+        <option value="$PROJECT_DIR$/src/solutions/PresentationModelSolution/ColorMixerUI.java" />
+        <option value="$PROJECT_DIR$/src/modules/PresentationModel/ColorMixerPM.java" />
+        <option value="$PROJECT_DIR$/src/modules/PresentationModel/ColorMixerApp.java" />
+        <option value="$PROJECT_DIR$/src/solutions/PresentationModelSolution/App.java" />
+        <option value="$PROJECT_DIR$/src/solutions/PresentationModelSolution/UI.java" />
       </list>
     </option>
   </component>
@@ -168,10 +261,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="489" />
-    <option name="y" value="57" />
-    <option name="width" value="659" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="941" />
+    <option name="y" value="116" />
+    <option name="width" value="1920" />
     <option name="height" value="1120" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -217,14 +310,41 @@
               <item name="javafxtest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstControl" type="462c0819:PsiDirectoryNode" />
+              <item name="BidirectionalBinding" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javafx_teamday" type="b2602c69:ProjectViewProjectNode" />
               <item name="javafxtest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="ColorMixer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javafx_teamday" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javafxtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="solutions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javafx_teamday" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javafxtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="solutions" type="462c0819:PsiDirectoryNode" />
+              <item name="BidirectionalBindingSolution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javafx_teamday" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javafxtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="solutions" type="462c0819:PsiDirectoryNode" />
+              <item name="colormixer_solution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javafx_teamday" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javafxtest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="solutions" type="462c0819:PsiDirectoryNode" />
+              <item name="PresentationModelSolution" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -250,15 +370,23 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/solutions/PresentationModelSolution" />
+      <recent name="$PROJECT_DIR$/src/modules/PresentationModel" />
+      <recent name="$PROJECT_DIR$/src/modules/ColorMixer" />
+      <recent name="$PROJECT_DIR$/src/modules/BidirectionalBinding" />
       <recent name="$PROJECT_DIR$/src/modules" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="modules.HelloWorld" />
+      <recent name="modules.FirstControl" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/modules" />
+      <recent name="$PROJECT_DIR$/src/solutions" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
@@ -274,7 +402,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FirstControl">
+  <component name="RunManager" selected="Application.App">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module />
       <option name="HTML_USED" value="false" />
@@ -283,14 +411,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
     </configuration>
-    <configuration name="FirstControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="modules.FirstControl.*" />
+          <option name="PATTERN" value="solutions.PresentationModelSolution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="modules.FirstControl.FirstControl" />
+      <option name="MAIN_CLASS_NAME" value="solutions.PresentationModelSolution.App" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -302,14 +430,14 @@
       <module name="javafxtest" />
       <envs />
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="BidirectionalBindingApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="modules.FirstControl.*" />
+          <option name="PATTERN" value="solutions.BidirectionalBindingSolution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="modules.HelloWorld.HelloWorld" />
+      <option name="MAIN_CLASS_NAME" value="solutions.BidirectionalBindingSolution.BidirectionalBindingApp" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -321,14 +449,33 @@
       <module name="javafxtest" />
       <envs />
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ColorMixerApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="sample.module01.*" />
+          <option name="PATTERN" value="modules.ColorMixer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="sample.module01.Main" />
+      <option name="MAIN_CLASS_NAME" value="modules.ColorMixer.ColorMixerApp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javafxtest" />
+      <envs />
+    </configuration>
+    <configuration name="ColorMixerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="solutions.colormixer_solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="solutions.colormixer_solution.ColorMixerApp" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -343,11 +490,11 @@
     <configuration name="Main" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="sample.*" />
+          <option name="PATTERN" value="modules.view.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <option name="MAIN_CLASS_NAME" value="modules.view.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -360,6 +507,25 @@
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration name="SkiAreasApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ch.fhnw.oop2.skiareasfx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ch.fhnw.oop2.skiareasfx.SkiAreasApp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javafxtest" />
+      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -447,17 +613,21 @@
       <Host>localhost</Host>
       <Port>5050</Port>
     </configuration>
-    <list size="4">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.HelloWorld" />
-      <item index="3" class="java.lang.String" itemvalue="Application.FirstControl" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ColorMixerApp (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BidirectionalBindingApp (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SkiAreasApp" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ColorMixerApp" />
+      <item index="5" class="java.lang.String" itemvalue="Application.App" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.FirstControl" />
-        <item index="1" class="java.lang.String" itemvalue="Application.HelloWorld" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main (1)" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.App" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BidirectionalBindingApp (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ColorMixerApp" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ColorMixerApp (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SkiAreasApp" />
       </list>
     </recent_temporary>
   </component>
@@ -475,7 +645,7 @@
       <option name="presentableId" value="Default" />
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
-      <workItem from="1548881741363" duration="2914000" />
+      <workItem from="1548881741363" duration="10893000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1548886443240</created>
@@ -484,25 +654,39 @@
       <option name="project" value="LOCAL" />
       <updated>1548886443240</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second commit">
+      <created>1548886469956</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1548886469956</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add first control exercise">
+      <created>1548886820477</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1548886820477</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4216000" />
+    <option name="totallyTimeSpent" value="12195000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="1120" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868525" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22603978" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24900399" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32868525" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -513,7 +697,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39940238" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -531,6 +715,32 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -538,7 +748,9 @@
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="second commit" />
+    <MESSAGE value="add first control exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="add first control exercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -549,7 +761,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/modules/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/modules/PresentationModel/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -568,18 +780,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/modules/Controller.java">
+    <entry file="file://$PROJECT_DIR$/src/modules/PresentationModel/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/modules/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -595,17 +799,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/modules/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/modules/view/UI.java">
+    <entry file="file://$PROJECT_DIR$/src/modules/PresentationModel/UI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
@@ -615,21 +809,293 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/modules/HelloWorld/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        <state relative-caret-position="285">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-            <element signature="e#640#641#0" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/modules/FirstControl/FirstControl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="27" column="70" lean-forward="false" selection-start-line="27" selection-start-column="70" selection-end-line="27" selection-end-column="70" />
+        <state relative-caret-position="285">
+          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solutions/HelloWorldSolution/HelloWorldSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solutions/FirstControlSolution/FirstControlSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solutions/colormixer_solution/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solutions/BidirectionalBindingSolution/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solutions/colormemory/ColorMemoryUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solutions/colormemory/CoolColorMemoryPM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solutions/colormemory/AppStarter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solutions/colormemory/ColorMixerPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/ColorMixer/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/skiareasfx/SkiAreasApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/skiareasfx/skiregion_cc/SkiregionControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/skiareasfx/skiregion_cc/DemoPM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/skiareasfx/presentationmodel/RootPM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/ColorMixer/ColorMixerApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/PresentationModel/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/PresentationModel/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/BidirectionalBinding/BidirectionalBindingUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solutions/BidirectionalBindingSolution/BidirectionalBindingApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solutions/colormixer_solution/ColorMixerPM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="21" column="32" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solutions/BidirectionalBindingSolution/BidirectionalBindingUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/BidirectionalBinding/BidirectionalBindingApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/ColorMixer/ColorMixerPM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="647">
+          <caret line="82" column="1" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="82" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/ColorMixer/ColorMixerUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solutions/colormixer_solution/ColorMixerUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="93" column="5" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="93" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/PresentationModel/ColorMixerPM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/PresentationModel/ColorMixerUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-284">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solutions/colormixer_solution/ColorMixerApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solutions/PresentationModelSolution/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/PresentationModel/ColorMixerApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solutions/PresentationModelSolution/PM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#759#760#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solutions/PresentationModelSolution/UI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="37" lean-forward="false" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

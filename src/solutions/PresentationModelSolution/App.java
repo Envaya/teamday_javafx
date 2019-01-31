@@ -1,22 +1,23 @@
-package sample.bidirectionalbinding_solution;
+package solutions.PresentationModelSolution;
 
 import javafx.application.Application;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
-public class BidirectionalBindingApp extends Application {
+public class App extends Application {
 
 	@Override
 	public void start(Stage primaryStage) throws Exception {
-		Parent rootPanel = new BidirectionalBindingExample();
+		PM pm = new PM(22);
+
+		Parent rootPanel = new UI(pm);
 
 		Scene scene = new Scene(rootPanel);
 
-		primaryStage.setTitle("Bidirectional Bindings");
 		primaryStage.setScene(scene);
 
-		primaryStage.setResizable(false);
+		primaryStage.setTitle("Presentation Model");
 
 		primaryStage.show();
 	}

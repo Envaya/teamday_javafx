@@ -1,4 +1,4 @@
-package modules.FirstControl;
+package solutions.FirstControlSolution;
 
 import javafx.application.Application;
 import javafx.scene.Scene;

@@ -1,4 +1,4 @@
-package sample.colormixer_solution;
+package solutions.colormixer_solution;
 
 import javafx.geometry.HPos;
 import javafx.geometry.Insets;
@@ -89,11 +89,7 @@ public class ColorMixerUI extends GridPane {
 
         display.fillProperty().bind(model.colorProperty());
 
-        display.widthProperty().bind(widthProperty().subtract(20));
-        display.heightProperty()
-               .bind(heightProperty().subtract(redSlider.heightProperty())
-                                     .subtract(greenSlider.heightProperty())
-                                     .subtract(blueSlider.heightProperty())
-                                     .subtract(50));
+        display.setWidth(200);
+        display.setHeight(100);
     }
 }
