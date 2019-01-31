@@ -2,42 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/modules/BidirectionalBinding/BidirectionalBindingApp.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/modules/ColorMixer/ColorMixerApp.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/modules/ColorMixer/ColorMixerPM.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/modules/ColorMixer/ColorMixerUI.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/solutions/BidirectionalBindingSolution/BidirectionalBindingUI.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/solutions/PresentationModelSolution/App.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/solutions/PresentationModelSolution/PM.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/solutions/PresentationModelSolution/UI.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/solutions/colormixer_solution/style.css" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/out/production/javafxtest/modules/FirstControl/FirstControl.class" afterPath="$PROJECT_DIR$/out/production/javafxtest/modules/FirstControl/FirstControl.class" />
       <change beforePath="$PROJECT_DIR$/out/production/javafxtest/modules/HelloWorld/HelloWorld.class" afterPath="$PROJECT_DIR$/out/production/javafxtest/modules/HelloWorld/HelloWorld.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/javafxtest/modules/bidirectionalbinding_solution/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/javafxtest/modules/colormixer_solution/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/javafxtest/modules/sample.fxml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/javafxtest/sample/Controller.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/javafxtest/sample/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/javafxtest/sample/bidirectionalbinding_solution/BidirectionalBindingApp.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/javafxtest/sample/bidirectionalbinding_solution/BidirectionalBindingExample.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/javafxtest/sample/colormixer_solution/ColorMixerApp.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/javafxtest/sample/colormixer_solution/ColorMixerPM.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/javafxtest/sample/colormixer_solution/ColorMixerUI.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/javafxtest/sample/view/UI.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/modules/Controller.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/modules/FirstControl/FirstControlSolution.java" afterPath="$PROJECT_DIR$/src/solutions/FirstControlSolution/FirstControlSolution.java" />
-      <change beforePath="$PROJECT_DIR$/src/modules/HelloWorld/HelloWorld.java" afterPath="$PROJECT_DIR$/src/modules/HelloWorld/HelloWorld.java" />
-      <change beforePath="$PROJECT_DIR$/src/modules/Main.java" afterPath="$PROJECT_DIR$/src/solutions/HelloWorldSolution/HelloWorldSolution.java" />
-      <change beforePath="$PROJECT_DIR$/src/modules/bidirectionalbinding_solution/BidirectionalBindingApp.java" afterPath="$PROJECT_DIR$/src/solutions/BidirectionalBindingSolution/BidirectionalBindingApp.java" />
-      <change beforePath="$PROJECT_DIR$/src/modules/bidirectionalbinding_solution/BidirectionalBindingExample.java" afterPath="$PROJECT_DIR$/src/modules/BidirectionalBinding/BidirectionalBindingUI.java" />
-      <change beforePath="$PROJECT_DIR$/src/modules/bidirectionalbinding_solution/style.css" afterPath="$PROJECT_DIR$/src/modules/ColorMixer/style.css" />
-      <change beforePath="$PROJECT_DIR$/src/modules/colormixer_solution/ColorMixerApp.java" afterPath="$PROJECT_DIR$/src/solutions/colormixer_solution/ColorMixerApp.java" />
-      <change beforePath="$PROJECT_DIR$/src/modules/colormixer_solution/ColorMixerPM.java" afterPath="$PROJECT_DIR$/src/solutions/colormixer_solution/ColorMixerPM.java" />
-      <change beforePath="$PROJECT_DIR$/src/modules/colormixer_solution/ColorMixerUI.java" afterPath="$PROJECT_DIR$/src/solutions/colormixer_solution/ColorMixerUI.java" />
-      <change beforePath="$PROJECT_DIR$/src/modules/colormixer_solution/style.css" afterPath="$PROJECT_DIR$/src/solutions/BidirectionalBindingSolution/style.css" />
-      <change beforePath="$PROJECT_DIR$/src/modules/sample.fxml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/modules/view/UI.java" afterPath="" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -645,7 +612,7 @@
       <option name="presentableId" value="Default" />
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
-      <workItem from="1548881741363" duration="10893000" />
+      <workItem from="1548881741363" duration="10920000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1548886443240</created>
@@ -668,11 +635,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548886820477</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="last exercises">
+      <created>1548895288428</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1548895288428</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12195000" />
+    <option name="totallyTimeSpent" value="12222000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1120" extended-state="6" />
@@ -750,7 +724,8 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="second commit" />
     <MESSAGE value="add first control exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="add first control exercise" />
+    <MESSAGE value="last exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="last exercises" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
